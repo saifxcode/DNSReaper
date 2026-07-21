@@ -1,11 +1,4 @@
 # DNSReaper
-  ____  _   _ ____  ____                            
- |  _ \| \ | / ___||  _ \ ___  __ _ _ __   ___ _ __ 
- | | | |  \| \___ \| |_) / _ \/ _` | '_ \ / _ \ '__|
- | |_| | |\  |___) |  _ <  __/ (_| | |_) |  __/ |   
- |____/|_| \_|____/|_| \_\___|\__,_| .__/ \___|_|   
-                                    |_|              
-                                        by saifxcode
 
 DNSReaper is a minimal, interactive Python tool for passive subdomain discovery during authorized security assessments. Enter a domain, and it collects public hostname data, validates DNS resolution, sorts valid subdomains, and saves them automatically.
 
